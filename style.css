@@ -1,1 +1,10 @@
+body {
+            font-family: Arial, Helvectica, sans-serif;
+            text-align: center;
+            colour: #000000;
+}
 
+#title {
+           height: 160px;
+           Width:   400px;
+}
