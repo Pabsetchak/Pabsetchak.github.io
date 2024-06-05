@@ -1,10 +1,21 @@
-body {
-            font-family: Arial, Helvectica, sans-serif;
-            text-align: center;
-            colour: #000000;
+p {
+    color: green;
 }
 
-title {
-           height: 160px;
-           Width:   400px;
+/* Additional CSS rules */
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.text {
+  color: blue;
+}
+
+#smiley {
+  width: 300px;
+  height: auto;
 }
